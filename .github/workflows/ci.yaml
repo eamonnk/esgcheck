@@ -17,8 +17,8 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Convert notebooks to posts
-        uses: ./_action_files
+      # - name: Convert notebooks to posts
+      #   uses: ./_action_files
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
