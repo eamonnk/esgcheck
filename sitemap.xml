@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://fastpages.fast.ai/2020/01/01/Microsoft-Word-Example-Post.html</loc>
-<lastmod>2020-01-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/actions/markdown/2020/03/06/fastpages-actions.html</loc>
-<lastmod>2020-03-06T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/codespaces</loc>
-<lastmod>2020-12-10T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/2025/05/09/text-mining.html</loc>
-<lastmod>2025-05-09T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/about/</loc>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/</loc>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/search/</loc>
-</url>
-<url>
-<loc>https://fastpages.fast.ai/categories/</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://eamonnk.github.io/esgcheck/about.html</loc>
+    <lastmod>2025-05-16T17:14:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eamonnk.github.io/esgcheck/posts/post-with-code/index.html</loc>
+    <lastmod>2025-05-16T17:14:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eamonnk.github.io/esgcheck/index.html</loc>
+    <lastmod>2025-05-16T17:14:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eamonnk.github.io/esgcheck/posts/welcome/index.html</loc>
+    <lastmod>2025-05-16T17:14:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eamonnk.github.io/esgcheck/posts/text_mining_eamonn_kelly_final.html</loc>
+    <lastmod>2025-05-10T08:52:02.000Z</lastmod>
+  </url>
 </urlset>
