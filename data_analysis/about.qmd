@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+About this blog - this is a test text post

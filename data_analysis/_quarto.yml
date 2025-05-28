@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "ek-blog"
+  title: "data analysis blog"
   navbar:
     right:
       - about.qmd
