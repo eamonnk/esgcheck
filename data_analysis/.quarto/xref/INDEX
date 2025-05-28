@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "aaa8af0c"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "ec1bfbb8"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "4f42d5a3"
+  },
+  "posts/text_mining_eamonn_kelly_final.ipynb": {
+    "text_mining_eamonn_kelly_final.html": "22f92a05"
+  },
+  "about.qmd": {
+    "about.html": "26c613b7"
+  }
+}
