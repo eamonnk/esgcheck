@@ -1,5 +1,5 @@
 ---
-title: "ek-blog"
+title: "Data Analysis Projects 2"
 listing:
   contents: posts
   sort: "date desc"
